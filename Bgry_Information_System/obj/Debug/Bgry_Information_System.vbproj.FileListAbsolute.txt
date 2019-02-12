@@ -1,0 +1,132 @@
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe.config
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbprojResolveAssemblyReference.cache
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Login.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Resources.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.GenerateResource.Cache
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.xml
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.pdb
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.xml
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.exe
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.pdb
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Main.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ChangePassword.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BCsettings.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BrgyClearance.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.People.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleCREATE.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleEDIT.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Form1.resources
+C:\Users\MARZO\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Logs.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe.config
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.exe
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.xml
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.pdb
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.ResolveComReference.cache
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BCsettings.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BrgyClearance.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ChangePassword.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Form1.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Logs.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleCREATE.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Login.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Main.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Resources.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.People.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleEDIT.resources
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.GenerateResource.Cache
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.pdb
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.xml
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\FlashControlV71.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\stdole.dll
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport1.rpt
+C:\Users\Nina\Desktop\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport1.vb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe.config
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.ResolveComReference.cache
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.exe
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.xml
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.pdb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport1.rpt
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport1.vb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.pdb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.xml
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\stdole.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbprojResolveAssemblyReference.cache
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BCsettings.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BrgyClearance.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ChangePassword.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleCREATE.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Login.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Main.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Resources.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.People.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleEDIT.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.GenerateResource.Cache
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\FlashControlV71.dll
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport2.rpt
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport2.vb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport3.rpt
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\CrystalReport3.vb
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.WorkingPermit.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ExportData.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ExportDataWPics.resources
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe.manifest
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.application
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.exe.manifest
+C:\Users\MARZO\Desktop\soft eng\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.application
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\bin\Debug\Bgry_Information_System.exe.config
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.ResolveComReference.cache
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.exe
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.xml
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.pdb
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbprojResolveAssemblyReference.cache
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BCsettings.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.BrgyClearance.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ChangePassword.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ExportData.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.ExportDataWPics.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleCREATE.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Login.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Main.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.Resources.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.People.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.PeopleEDIT.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.WorkingPermit.resources
+D:\ACADS\Programs\Bgry_Information_System\Bgry_Information_System\obj\Debug\Bgry_Information_System.vbproj.GenerateResource.Cache
